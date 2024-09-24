@@ -18,7 +18,7 @@ A simple Todo List application built with React that allows users to add, mark a
 
 ## Screenshots
 
-![Todo List Demo](./screenshot.png) <!-- Add a screenshot if you want -->
+![image](https://github.com/user-attachments/assets/6cddd858-a7dc-45b9-a334-1f2c190d390b)
 
 ## Getting Started
 

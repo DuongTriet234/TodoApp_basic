@@ -34,4 +34,4 @@ To run this project, you'll need to have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   [git clone https://github.com/your-username/your-repo-name.git](https://github.com/DuongTriet234/TodoApp_basic.git)
+   https://github.com/DuongTriet234/TodoApp_basic.git
